@@ -81,3 +81,6 @@ i hope i dont have to explain how to install it
 
 - From there it should be same expirience as drawing on windows
 
+## ISUES 
+
+- it dont support biderectionall drag and drop
