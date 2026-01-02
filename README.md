@@ -83,4 +83,4 @@ i hope i dont have to explain how to install it
 
 ## ISUES 
 
-- it dont support biderectionall drag and drop
+- [fixed] it does not support bidirectionall file drag and drop [Solution](https://github.com/silvercreeper356/virtiofs-guide?tab=readme-ov-file)
