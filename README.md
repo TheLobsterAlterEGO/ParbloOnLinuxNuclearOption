@@ -81,6 +81,6 @@ i hope i dont have to explain how to install it
 
 - From there it should be same expirience as drawing on windows
 
-## ISUES 
+## ISSUES 
 
 - [fixed] it does not support bidirectionall file drag and drop [Solution](https://github.com/silvercreeper356/virtiofs-guide?tab=readme-ov-file)
